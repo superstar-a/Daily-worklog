@@ -110,7 +110,6 @@ Highlights: Ngày đầu tiên thực tập rất trọn vẹn, vượt qua bỡ
 
 📎 Attachments & Links
 Code & Projects
-GitHub commits (Bạn tự thay link repo của bạn vào đây nhé)
 
 Learning Resources
 [Videos watched]: First Cloud Journey Bootcamp Video Guide.
@@ -121,6 +120,6 @@ Luôn nhớ "Stop" hoặc "Terminate" các tài nguyên máy chủ sau khi thự
 🎯 Week Progress:
 Đã hoàn thành 30% mục tiêu học tập của tuần đầu tiên.
 
-Worklog created by: [Điền tên của bạn vào đây]
+Worklog created by: [Phạm Công Sỹ]
 
 Next review: 09/07/2026
